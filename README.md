@@ -1,5 +1,5 @@
-# hola-mundo
+# HOLA-MUNDO
 Mi primer repositorio de prueba
 
-Atuh: Fabricio G.
+Auth: Fabricio G.
 08/02/22
